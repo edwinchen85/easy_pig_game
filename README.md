@@ -10,3 +10,5 @@ In this project, we will build PIG GAME. We will be heavily utilize JavaScript f
 - The first player to reach 100 points on GLOBAL score wins the game.
 
 [View demo site here.](http://edwinchen.co/easy_pig_game/)
+
+![Preview](screenshot.png)
